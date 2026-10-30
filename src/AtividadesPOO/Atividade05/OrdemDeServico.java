@@ -1,3 +1,5 @@
+package AtividadesPOO.Atividade05;
+
 import java.util.Scanner;
 
 public class OrdemDeServico {

@@ -1,3 +1,4 @@
+package AtividadesPOO.Atividade02;
 
 import java.util.Scanner;
 

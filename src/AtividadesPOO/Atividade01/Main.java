@@ -1,3 +1,4 @@
+package AtividadesPOO.Atividade01;
 
 public class Main {
     
@@ -8,16 +9,16 @@ public class Main {
        //pessoa
        
     
-    Pessoa EuOBrabo = new Pessoa();
+    Pessoa Eu = new Pessoa();
     
-        EuOBrabo.nome = "Matheus";
-        EuOBrabo.idade = 18;
-        EuOBrabo.altura = 1.78;
-        EuOBrabo.nacionalidade = "Brasileiro";
+        Eu.nome = "Matheus";
+        Eu.idade = 18;
+        Eu.altura = 1.78;
+        Eu.nacionalidade = "Brasileiro";
         
         
-        EuOBrabo.exibir();
-        EuOBrabo.aniversario();
+        Eu.exibir();
+        Eu.aniversario();
         
         //----------------------------------------------------------------------------
         

@@ -1,12 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+package AtividadesPOO.Atividade09;
 
-
-/**
- *
- * @author pinheirocreator
- */
 public class Aula2209 {
     
   public static void main(String[] args) {

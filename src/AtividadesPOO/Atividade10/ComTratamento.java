@@ -1,3 +1,4 @@
+package AtividadesPOO.Atividade10;
 
 public class ComTratamento {
     

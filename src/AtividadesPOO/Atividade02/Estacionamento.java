@@ -1,4 +1,4 @@
-
+package AtividadesPOO.Atividade02;
 
 public class Estacionamento {
 
