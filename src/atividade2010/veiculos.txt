@@ -1,0 +1,7 @@
+a;a;2024
+b;a;2000;Moto
+da;20000;2000;Moto
+asd;213;2021;Carro
+AAAAAAAAAA;12312;2000;Moto
+asdf;sadsd;2026;Carro
+ABC;civic do arthuriznho gay;2026;Carro
