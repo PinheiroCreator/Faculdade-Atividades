@@ -141,7 +141,7 @@ public class AgentaContatos extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>//GEN-END:initComponents
+    }// </editor-fold>/
 
         public void limparTXTF() {
 
