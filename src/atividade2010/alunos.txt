@@ -1,6 +1,0 @@
-matheus;10;10;10.0;Aprovado
-lucas;1;7;4.0;Reprovado
-bia;6;8;7.0;Aprovado
-sad;5;2;3.5;Reprovado
-dddddddd;2;7;4.5;Reprovado
-cvvvvvvvv;3.5;7;5.25;Recuperacao
