@@ -1,16 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-package com.mycompany.atividade2010;
+
+package AtividadesPOO.atividade13;
 
 import java.io.*;
 import javax.swing.*;
 
-/**
- *
- * @author mathe
- */
 public class CadastroCliente extends javax.swing.JFrame {
     
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(CadastroCliente.class.getName());
@@ -152,13 +145,14 @@ public class CadastroCliente extends javax.swing.JFrame {
                         
                         if (novoArquivo) {
                             
-                        escrita.write("nome;email;cidade;estado");
+                        escrita.write("Nome;Email;Cidade;Estado");
                         escrita.newLine();
                         
                         }
                         
                     escrita.write(nome + ";" + email + ";" + cidade + ";" + estado + System.lineSeparator());
                     JOptionPane.showMessageDialog(this, "Cliente salvo", "Cliente", JOptionPane.INFORMATION_MESSAGE);
+                    limparTXTF();
                     }
                  
                 
