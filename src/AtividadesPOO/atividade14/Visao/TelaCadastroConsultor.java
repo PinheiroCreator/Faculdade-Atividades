@@ -7,10 +7,8 @@ package Visao;
 import Controle.ConsultorController;
 import Model.Consultor;
 import java.io.File;
-import java.util.Scanner;
 import javax.swing.JOptionPane;
-import javax.swing.table.DefaultTableModel;
-import persistencia.ConsultorDAO;
+
 import persistencia.IConsultorCRUD;
 
 /**
